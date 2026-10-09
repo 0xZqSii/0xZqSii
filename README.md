@@ -1,79 +1,129 @@
-<!-- ملف README الشخصي لـ GitHub لمحمد (0xZqSii) - نسخة مختبري الاختراق -->
+
+<!--
+  ZqSii | Cybersecurity Lab
+  GitHub Profile README
+-->
 
 <div align="center">
 
-  # ⚡ مرحبًا بكم في ملفي الشخصي على GitHub! ⚡
+  <!-- Cyber Lab Banner -->
+  <img src="assets/cyber-lab-banner.png" width="100%" alt="ZqSii Cybersecurity Lab Banner" />
 
-  ![0xZqSii's GitHub Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=echo+'0xZqSii';whoami;./script.sh+--mode=hack)
+  <br/>
 
-  </div>
+  <!-- Animated Terminal Text -->
+  <a href="https://github.com/0xZqSii">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=650&lines=Initializing+Cyber+Lab...;Exploring+Cybersecurity+%26+Pentesting;Building+Python+Security+Tools;Learning+%7C+Testing+%7C+Improving"
+      alt="Animated terminal text"
+    />
+  </a>
+
+  <br/>
+
+  <img
+    src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00ff88?style=flat-square&labelColor=080808"
+    alt="Cybersecurity focus"
+  />
+  <img
+    src="https://img.shields.io/badge/INTEREST-PENTESTING-00ff88?style=flat-square&labelColor=080808"
+    alt="Penetration testing interest"
+  />
+  <img
+    src="https://img.shields.io/badge/LANGUAGE-PYTHON-00ff88?style=flat-square&labelColor=080808"
+    alt="Python"
+  />
+
+</div>
 
 ---
 
-### 🟢 عني | Info.txt
+## `whoami`
 
 ```bash
-$ cat bio.txt
-User: 0xZqSii
-Location: Yemen 🇾🇪
-Role: Cybersecurity Enthusiast & Aspiring Penetration Tester
-Focus: Web App Security, Tool Development (Python/C), Linux, Reverse Engineering
-Status: Learning, Building, Hacking (Ethically).
+$ whoami
+ZqSii
 
+$ cat about.txt
+Cybersecurity enthusiast focused on penetration testing,
+Python security tools, Linux, and networking.
 
-إليك القالب باللغة العربية (وهو الأكثر ملاءمة لطبيعته كمقصد) وبالتنسيق المطلوب (Markdown) ليظهر بشكل احترافي. تم تصميم هذا القالب ليعكس هويتك كمختبر اختراق، وهو جاهز للنسخ المباشر.
-🔥 الملف الشخصي لـ 0xZqSii (Profile README) 🔥
-<!-- ملف README الشخصي لـ GitHub لمحمد (0xZqSii) - نسخة مختبري الاختراق -->
+Learning by building, experimenting, and exploring
+how systems work — and how to make them more secure.
+```
+
+## `~/areas-of-interest`
+
+```text
+[01] Cybersecurity
+[02] Penetration Testing
+[03] Python Security Tools
+[04] Linux & Operating Systems
+[05] Networking & DNS
+[06] Security Research
+```
+
+## `~/toolkit`
 
 <div align="center">
 
-  # ⚡ مرحبًا بكم في ملفي الشخصي على GitHub! ⚡
+  <img src="https://img.shields.io/badge/Python-00ff88?style=for-the-badge&logo=python&logoColor=00ff88&labelColor=080808" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-00ff88?style=for-the-badge&logo=linux&logoColor=00ff88&labelColor=080808" alt="Linux" />
+  <img src="https://img.shields.io/badge/Kali_Linux-00ff88?style=for-the-badge&logo=kalilinux&logoColor=00ff88&labelColor=080808" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Windows-00ff88?style=for-the-badge&logo=windows&logoColor=00ff88&labelColor=080808" alt="Windows" />
+  <img src="https://img.shields.io/badge/Networking-00ff88?style=for-the-badge&logo=cisco&logoColor=00ff88&labelColor=080808" alt="Networking" />
 
-  ![0xZqSii's GitHub Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=echo+'0xZqSii';whoami;./script.sh+--mode=hack)
+</div>
 
-  </div>
-
----
-
-### 🟢 عني | Info.txt
+## `~/current-mission`
 
 ```bash
-$ cat bio.txt
-User: 0xZqSii
-Location: Yemen 🇾🇪
-Role: Cybersecurity Enthusiast & Aspiring Penetration Tester
-Focus: Web App Security, Tool Development (Python/C), Linux, Reverse Engineering
-Status: Learning, Building, Hacking (Ethically).
+[+] Improving Python skills
+[+] Exploring penetration testing
+[+] Practicing Linux and networking
+[+] Developing cybersecurity tools
+[+] Building a public security portfolio
+```
 
-🛠️ الأدوات والتقنيات الأساسية | Stack.md
+## `~/projects`
+
 <div align="center">
-اللغات والبرمجة:
-الأدوات والأنظمة الأمنية:
+
+  <a href="https://github.com/0xZqSii">
+    <img
+      src="https://img.shields.io/badge/Explore_My_Repositories-00ff88?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=080808"
+      alt="Explore repositories"
+    />
+  </a>
+
 </div>
-🎯 ما أعمل عليه حاليًا | Goals.py
- * 🐍 برمجة أدوات أتمتة أمنية باستخدام بايثون (Check my repositories!).
- * 🌐 دراسة ثغرات الويب المتقدمة وطرق استغلالها.
- * 🎓 التحضير لاختبارات شهادات مثل eJPT أو OSCP.
- * 📚 دراسة اللغة الصينية (HSK).
-📊 إحصائيات GitHub الخاصة بي | Statistics.api
+
+> New security tools and projects will be published here as they are ready.
+
+## `~/connect`
+
 <div align="center">
-</div>
-📫 تواصل معي | Contact.php
- * 💼 LinkedIn: (أضف رابط حسابك هنا)
- * ✉️ البريد الإلكتروني: (أضف إيميلك هنا)
-<div align="right">
-$ echo "Keep learning, stay ethical, and hack the planet!"
+
+  <a href="https://github.com/0xZqSii">
+    <img src="https://img.shields.io/badge/GitHub-00ff88?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=080808" alt="GitHub profile" />
+  </a>
 
 </div>
 
 ---
 
-### 💡 كيفية استخدامه:
+<div align="center">
 
-1. اذهب إلى المستودع الذي أنشأته باسم `0xZqSii`.
-2. اضغط على ملف `README.md`.
-3. اضغط على رمز القلم (**Edit**) لتعديله.
-4. امسح كل شيء موجود، والصق الكود البرمجي أعلاه بالكامل.
-5. **مهم:** استبدل العبارات بين الأقواس `(مثل رابط حسابك)` بمعلوماتك الحقيقية.
-6. انزل لأسفل الصفحة واضغط على **Commit changes** لحفظ التعديلات.
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:001a0b,50:003b20,100:001a0b&height=3&section=footer"
+    width="100%"
+    alt=""
+  />
 
+  <sub><code>LEARN // BUILD // TEST // IMPROVE</code></sub>
+
+  <br/>
+
+  <sub>Security is a process, not a destination.</sub>
+
+</div>
