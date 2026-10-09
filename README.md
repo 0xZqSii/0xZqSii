@@ -1,121 +1,187 @@
 
+<!--
+  ZqSii | Cybersecurity Research Lab
+  Profile README
+-->
+
 <div align="center">
 
-<!-- ZqSii Cybersecurity Lab -->
-
+<!-- HERO SECTION -->
 <img src="assets/cyber-lab-banner.png" width="100%" alt="ZqSii Cybersecurity Lab"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=650&lines=Initializing+Cyber+Lab...;Cybersecurity+%7C+Pentesting;Python+Security+Tools;Recon+%2F%2F+Analyze+%2F%2F+Learn" alt="Animated Cybersecurity Terminal"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-LEARNING-00FF88?style=flat-square&labelColor=080808"/>
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00FF88?style=flat-square&labelColor=080808"/>
-<img src="https://img.shields.io/badge/INTEREST-PENTESTING-00FF88?style=flat-square&labelColor=080808"/>
-
-<br><br>
+<br/>
 
 <a href="https://github.com/0xZqSii">
-<img src="https://komarev.com/ghpvc/?username=0xZqSii&style=flat-square&color=00ff88&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+ZqSii;Cybersecurity+%2F%2F+Pentesting;Python+%2F%2F+Linux+%2F%2F+Networking;Learning.+Building.+Investigating." alt="Typing animation"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00FF88?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/INTEREST-PENTESTING-00FF88?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/BUILDING-SECURITY_TOOLS-00FF88?style=flat-square&labelColor=0D1117"/>
+
+<br/><br/>
+
+<a href="https://github.com/0xZqSii">
+  <img src="https://komarev.com/ghpvc/?username=0xZqSii&style=flat-square&color=00FF88&label=PROFILE+VISITORS" alt="Profile visitors"/>
 </a>
 
 </div>
 
 ---
 
-## `root@zqsii:~# whoami`
+## `01 // ABOUT ME`
 
-```bash
-$ whoami
-ZqSii
+<table>
+<tr>
+<td width="65%" valign="top">
 
-$ cat about.txt
+I'm **ZqSii**, a cybersecurity enthusiast interested in understanding how systems work, how vulnerabilities arise, and how security tools can help investigate them.
 
-Cybersecurity enthusiast interested in penetration testing,
-Python, Linux, and networking.
+My main interests include:
 
-Learning through hands-on practice, experimentation,
-and building security-focused tools.
+- Penetration Testing
+- Python Security Tool Development
+- Linux & Operating Systems
+- Networking & DNS
+- Security Research
 
-Always exploring. Always improving.
+I learn through independent study, hands-on practice, and building small tools to strengthen my technical foundations.
+
+**Current mindset:** Learn the fundamentals, experiment in authorized environments, and keep improving.
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="120" alt="Security lock"/>
+
+<br/><br/>
+
+```text
+STATUS: LEARNING
+MODE:   RESEARCH
+FOCUS:  SECURITY
 ```
 
-## `root@zqsii:~# cat interests.txt`
+</td>
+</tr>
+</table>
+
+---
+
+## `02 // TECHNICAL INTERESTS`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Penetration_Testing-00FF88?style=for-the-badge&logo=kalilinux&logoColor=00FF88&labelColor=080808"/>
-<img src="https://img.shields.io/badge/Python-00FF88?style=for-the-badge&logo=python&logoColor=00FF88&labelColor=080808"/>
-<img src="https://img.shields.io/badge/Linux-00FF88?style=for-the-badge&logo=linux&logoColor=00FF88&labelColor=080808"/>
-<img src="https://img.shields.io/badge/Networking-00FF88?style=for-the-badge&logo=cisco&logoColor=00FF88&labelColor=080808"/>
-<img src="https://img.shields.io/badge/Security_Research-00FF88?style=for-the-badge&logo=hackthebox&logoColor=00FF88&labelColor=080808"/>
+<img src="https://img.shields.io/badge/Python-00FF88?style=for-the-badge&logo=python&logoColor=00FF88&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Linux-00FF88?style=for-the-badge&logo=linux&logoColor=00FF88&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Kali_Linux-00FF88?style=for-the-badge&logo=kalilinux&logoColor=00FF88&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Windows-00FF88?style=for-the-badge&logo=windows&logoColor=00FF88&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Networking-00FF88?style=for-the-badge&logo=cisco&logoColor=00FF88&labelColor=0D1117"/>
 
 </div>
 
-## `root@zqsii:~# ./toolkit`
+<div align="center">
+
+<img src="https://img.shields.io/badge/Penetration_Testing-21262D?style=flat-square&logo=hackthebox&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/DNS-21262D?style=flat-square&logo=cloudflare&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Security_Research-21262D?style=flat-square&logo=proton&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Automation-21262D?style=flat-square&logo=python&logoColor=00FF88"/>
+
+</div>
+
+---
+
+## `03 // THE LAB`
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-00FF88?style=flat-square&logo=python&logoColor=00FF88&labelColor=080808)
-![Linux](https://img.shields.io/badge/Linux-00FF88?style=flat-square&logo=linux&logoColor=00FF88&labelColor=080808)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-00FF88?style=flat-square&logo=kalilinux&logoColor=00FF88&labelColor=080808)
-![Windows](https://img.shields.io/badge/Windows-00FF88?style=flat-square&logo=windows&logoColor=00FF88&labelColor=080808)
-![Git](https://img.shields.io/badge/Git-00FF88?style=flat-square&logo=git&logoColor=00FF88&labelColor=080808)
-![DNS](https://img.shields.io/badge/DNS-00FF88?style=flat-square&logo=cloudflare&logoColor=00FF88&labelColor=080808)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=700&color=00FF88&center=true&vCenter=true&width=500&lines=%5B%2B%5D+Initializing+workspace...;%5B%2B%5D+Exploring+systems...;%5B%2B%5D+Building+security+tools...;%5B%2B%5D+Knowledge+is+still+loading..." alt="Lab terminal animation"/>
 
 </div>
 
 ```python
-class CybersecurityLab:
+class SecurityLab:
     def __init__(self):
-        self.name = "ZqSii"
+        self.owner = "ZqSii"
+        self.focus = "Cybersecurity"
         self.interests = [
             "Penetration Testing",
-            "Python Security Tools",
+            "Python",
             "Linux",
             "Networking",
             "Security Research",
         ]
 
     def mission(self):
-        return "Learn, build, test, improve."
+        return "Learn -> Investigate -> Build -> Improve"
 
 
-lab = CybersecurityLab()
+lab = SecurityLab()
 print(lab.mission())
 ```
 
-## `root@zqsii:~# cat current_mission.txt`
+### Current objectives
 
-<img align="right" width="100" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" alt="Locked"/>
+- [x] Explore cybersecurity fundamentals
+- [x] Practice with Linux and security environments
+- [ ] Improve Python security tooling
+- [ ] Publish personal security projects
+- [ ] Deepen networking and penetration-testing knowledge
 
-- Exploring cybersecurity and penetration testing.
-- Improving Python for security automation.
-- Practicing Linux and networking fundamentals.
-- Building tools to understand and analyze systems.
+---
 
-<br clear="right"/>
-
-## `root@zqsii:~# ls ~/projects`
+## `04 // PROJECTS`
 
 <div align="center">
 
-<a href="https://github.com/0xZqSii">
-<img src="https://img.shields.io/badge/Explore_Projects-00FF88?style=for-the-badge&logo=github&logoColor=00FF88&labelColor=080808" alt="Explore GitHub Projects"/>
+<a href="https://github.com/0xZqSii?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-00FF88?style=for-the-badge&logo=github&logoColor=00FF88&labelColor=0D1117" alt="View repositories"/>
 </a>
 
 </div>
 
-> Security tools and personal projects will appear here as they are ready to be published.
+> Personal security tools and experiments will be featured here as they are published.
 
-## `root@zqsii:~# connect`
+<!--
+When your tool is published, replace this section with its real repository:
+- Project name
+- What it does
+- Main technologies
+- Link to the repository
+-->
+
+---
+
+## `05 // GITHUB ANALYTICS`
 
 <div align="center">
 
 <a href="https://github.com/0xZqSii">
-<img src="https://img.shields.io/badge/GitHub-00FF88?style=for-the-badge&logo=github&logoColor=00FF88&labelColor=080808" alt="GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=0xZqSii&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9&icon_color=00FF88&include_all_commits=true" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/0xZqSii">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xZqSii&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9" alt="Most used languages"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/0xZqSii">
+  <img width="75%" src="https://streak-stats.demolab.com?user=0xZqSii&theme=transparent&hide_border=true&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
+</a>
+
+</div>
+
+---
+
+## `06 // CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/0xZqSii">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF88" alt="GitHub"/>
 </a>
 
 </div>
@@ -126,10 +192,12 @@ print(lab.mission())
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001A0B,50:00FF88,100:001A0B&height=3&section=footer" width="100%" alt=""/>
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1200&color=00FF88&center=true&vCenter=true&width=500&lines=LEARN+%2F%2F+BUILD+%2F%2F+TEST+%2F%2F+IMPROVE" alt="Learn Build Test Improve"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=STAY+CURIOUS.;THINK+LIKE+A+RESEARCHER.;BUILD+WITH+PURPOSE." alt="Footer animation"/>
 
-<sub>Exploring systems. Understanding security. Building skills.</sub>
+<br/>
+
+<sub>Understand the system. Test responsibly. Improve security.</sub>
 
 </div>
